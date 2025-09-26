@@ -13,7 +13,7 @@
 
 
 // by Dr Arasteh
-// by Arya Esfahani  aria.esfahani.ee.sharif@gmail.com
+// by Aria Esfahani  aria.esfahani.ee.sharif@gmail.com
 
 
 using namespace std;
@@ -1508,3 +1508,4 @@ void steam ()
 //        c=false;
 //    }
 //}
+
